@@ -7,6 +7,7 @@
       <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matbeirigo&show_icons=true&locale=en&show_icons=true&theme=radical" alt="matbeirigo" /></p>
     </div>
   </div>
+  <p></p>
   <div class="row">
     <div class="col">
       <h1 align="center">Hello, my name is Matheus Beirigo</h1>
