@@ -1,6 +1,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MatBeirigo&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matbeirigo&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="matbeirigo" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=matbeirigo&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="matbeirigo" /></p>
+
+</br>
 
 <h1 align="center">Hello, my name is Matheus Beirigo</h1>
 <h3 align="center">Welcome to my backend repository</h3>
