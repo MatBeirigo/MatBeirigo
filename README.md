@@ -9,7 +9,7 @@
 <div class="container">
   <div class="row">
     <div class="col">
-      <p><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=matbeirigo&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="matbeirigo" /></p></p>
+      <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=matbeirigo&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="matbeirigo" /></p>
     </div>
     <div class="col">
       <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matbeirigo&show_icons=true&locale=en&show_icons=true&theme=radical" alt="matbeirigo" /></p>
@@ -17,7 +17,7 @@
   </div>
   <div class="row">
     <div class="col">
-      <h1> align="center">Hello, my name is Matheus Beirigo</h1>
+      <h1 align="center">Hello, my name is Matheus Beirigo</h1>
     </div>
     <div class="col">
       <h3 align="center">Welcome to my backend repository</h3>
