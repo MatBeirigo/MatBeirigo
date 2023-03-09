@@ -1,11 +1,3 @@
-<syle>
-  .col {
-  display: inline-block;
-  width: 50%;
-  vertical-align: top;
-}
-</style>
-
 <div class="container">
   <div class="row">
     <div class="col">
