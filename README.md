@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ASA | Consultoria e Serviços de Tecnologia<br>🌱 I'm currently evolving as a back end developer<br>📔  I regularly write articles on https://www.linkedin.com/in/matheusbeirigo/
+🌱 I'm currently evolving as a back end developer<br>📔  I regularly write articles on https://www.linkedin.com/in/matheusbeirigo/
 
 
 ## 🌐 Socials:
