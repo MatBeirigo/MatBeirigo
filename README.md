@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently evolving as a back end developer<br>📔  I regularly write articles on https://www.linkedin.com/in/matheusbeirigo/
+🌱 I'm currently evolving as a back end developer<br>📔  I regularly write articles on https://www.linkedin.com/in/matheusbeirigo/<br> 💻 Find out more about my work at https://matbeirigo.github.io/beirigo.dev/
 
 
 ## 🌐 Socials:
