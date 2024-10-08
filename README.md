@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Beirigo</h1>
 <h3 align="center">FullStack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matbeirigo&label=Profile%20views&color=16d044&style=flat-square" alt="matbeirigo" /> </p>
-
 - 🌱 I'm currently evolving as a back end developer **Entity, Identity, React...**
 
 - 💻 Find out more about my work at [https://matbeirigo.github.io/beirigo.dev/](https://matbeirigo.github.io/beirigo.dev/)
@@ -22,8 +20,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matbeirigo" alt="matbeirigo" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matbeirigo&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="matbeirigo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matbeirigo&show_icons=true&theme=dark&locale=pt-br" alt="matbeirigo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matbeirigo&theme=dark" alt="matbeirigo" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matbeirigo&label=Profile%20views&color=16d044&style=flat-square" alt="matbeirigo" /> </p>
